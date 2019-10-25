@@ -1,0 +1,52 @@
+Dylan Moisés Meléndez Linares 00087018 Sección 03
+
+-----Primer árbol-----
+---Cuáles nodos son la raíz, ramas y hojas?---
+Raíz: A
+Ramas: B,D,C,E
+Hojas: G,H,I,F
+-Nivel de cada nodo:
+Nivel 0 = A
+Nivel 1 = B,C
+Nivel 2 = D,E,F
+Nivel 3 = G,H,I
+---Profundidad, peso y orden del árbol:---
+Profundidad = 3
+Peso = 9
+Orden = 2
+---Un sub-árbol cualquiera:---
+No tiene un sub árbol
+---Determine si es lleno o estricto:---
+Árbol Estricto
+---Determine si es perfecto o completo:---
+Árbol Completo
+---Recorridos: pre-orden, post-orden e in-orden:---
+Pre-Orden(RID) :A,B,D,G,C,E,H,I,F
+Post-Orden(IDR):G,D,B,H,I,E,F,C,A
+In-Orden(IRD)  :D,G,B,A,H,E,I,C,F
+
+-----Segundo árbol-----
+--Cuáles nodos son la raíz, ramas y hojas?--
+Raíz: A
+Ramas: B,C,D,E,F,H
+Hojas: I,J,G,K,L
+--Nivel de cada nodo:--
+Nivel 0: A
+Nivel 1: B
+Nivel 2: C,D
+Nivel 3: E,F,G,H
+Nivel 4: I,J,K,L
+--Profundidad, peso y orden del árbol:--
+Profundidad: 4
+Peso: 12
+Orden: 2
+--Un sub-árbol cualquiera:--
+No tiene un sub árbol
+--Determine si es lleno o estricto:--
+Árbol Estricto
+--Determine si es perfecto o completo:--
+Árbol Completo
+--Recorridos: pre-orden, post-orden e in-orden--
+Pre-Orden(RID) :A,B,C,E,I,F,J,D,G,H,K,L
+Post-Orden(IDR):I,E,J,F,C,G,K,L,H,D,B,A
+In-Orden(IRD)  :E,I,C,F,J,B,G,D,K,H,L,A
